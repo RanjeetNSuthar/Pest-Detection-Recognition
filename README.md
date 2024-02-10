@@ -31,4 +31,7 @@ Some information about the data:
 * There are around 45,000+ images in the training set (corresponding labels in train.txt)
 * There are around 7,000+ images in the val set (corresponding labels in val.txt).
 * There are around 22,000+ images in the test set (corresponding labels in test.txt).
+## 5. Execution
+
+To run the model run the recognizer.py file after configuring it according to your environment which will use the trained model and provide the results
 
